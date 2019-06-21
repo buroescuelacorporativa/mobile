@@ -102,6 +102,22 @@ ion-side-menu li.item.item-divider {
   background-color: #5069A1;
 }
 
+
+.path-messages .conversation .conversation-area .bubble-alt {
+  background-color: #ffffff;
+  border-color: #C02424;
+  float: right;
+}
+.path-messages .conversation .conversation-area .bubble-alt:before {
+  border-color: transparent;
+  border-left-color: #C02424;
+  left: auto;
+  right: -16px;
+}
+
+
+
+
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
