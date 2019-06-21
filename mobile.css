@@ -1,5 +1,5 @@
 .bar-header {
-  background-color: #5069A1;
+  background-color: #233568;
 }
 
 ion-side-menu li .item {
@@ -65,7 +65,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #5069A1;
+  background: #233568;
 }
 
 /* Bottom tabs selected color */
@@ -83,13 +83,13 @@ ion-side-menu li.item.item-divider {
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #5069A1 !important;
-  border-bottom-color: #5069A1 !important;
+  color: #233568 !important;
+  border-bottom-color: #233568 !important;
 }
 
 /* Loading spinner */
 .spinner circle, .spinner line {
-    stroke: #5069A1;
+    stroke: #233568;
 }
 
 /* Buttons */
@@ -99,38 +99,22 @@ ion-side-menu li.item.item-divider {
 .fab-ios,
 .fab-md,
 .fab-wp {
-  background-color: #5069A1;
+  background-color: #233568;
 }
-
-
-.path-messages .conversation .conversation-area .bubble-alt {
-  background-color: #ffffff;
-  border-color: #C02424;
-  float: right;
-}
-.path-messages .conversation .conversation-area .bubble-alt:before {
-  border-color: transparent;
-  border-left-color: #C02424;
-  left: auto;
-  right: -16px;
-}
-
-
-
 
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
-    border-color: #5069A1;
+    border-color: #233568;
     background-color: #ffffff;
-    color: #5069A1;
+    color: #233568;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
-  color: #5069A1;
+  color: #233568;
 }
 
 /* More icon colors */
