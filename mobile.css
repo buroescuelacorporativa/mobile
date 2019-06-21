@@ -1,11 +1,3 @@
-.user-menu {
-  background: #ffffff;
-  padding-bottom: 40px;
-  height: auto;
-}
-
-
-
 
 .bar-header {
   background-color: #233568;
@@ -27,7 +19,7 @@ ion-side-menu li.item.item-divider {
 }
 
 .ion-ionic {
-  color: orange;
+  color: #BABAC1;
 }
 .ion-home {
   color: blue;
